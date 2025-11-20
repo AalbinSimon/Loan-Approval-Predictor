@@ -94,3 +94,10 @@ Since the dataset was relatively small, performance was strong even without hype
 ✔ Achieved high model performance without tuning
 ✔ Built clean, modular, production-quality code
 ✔ Successfully deployed a real-time prediction app
+
+
+<img width="1916" height="1016" alt="image" src="https://github.com/user-attachments/assets/84b601aa-ad8a-4961-978d-950cf475fffa" />
+
+
+
+
